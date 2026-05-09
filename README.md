@@ -22,6 +22,9 @@ COBOL, JCL, Easytrieve, DB2, IMS, File-Aid, File Manager, Changeman, Endevor, Xp
 
 ## Badges
 
+### Agile Explorer by IBM SkillsBuild
+Issued to: Pat Livizette Mercado
+
 [![Agile Explorer by IBM](https://images.credly.com/size/160x160/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](https://www.credly.com/earner/earned/badge/8dd938b1-bb04-419f-b4b3-20704a19dc27)
 
 
