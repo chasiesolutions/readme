@@ -3,7 +3,6 @@ I'm a mainframe COBOL programmer now trying to learn JAVA programming. I'm highl
 
 # Project Title
 
-[A brief description of what this project does and who it's for]
 About me
 
 
@@ -13,11 +12,11 @@ About me
 
 
 ## 🚀 About Me
-I'm a mainframe COBOL programmer now trying to learn JAVA programming. I'm highly motivated to build expertise in new platforms and technologies. I'm experienced across the full project lifecycle (from requirements gathering and design to testing, deployment, and production support). I have delivered applications in finance, aviation and healthcare.
+I'm a mainframe COBOL programmer learning JAVA programming. I'm highly motivated to build expertise in new platforms and technologies. I'm experienced across the full project lifecycle (from requirements gathering and design to programming and testing, deployment, and production support). I have delivered applications in finance, aviation and healthcare.
 
 
 ## 🛠 Skills
-COBOL, JCL, Easytrieve, DB2, IMS, File-Aid, File Manager, Changeman, Endevor, Xpediter, Intertest, ISPW, application programming, design, debugging, quality assurance, test planning, defect tracking, effort estimation, scheduling, resource planning and risk tracking
+COBOL, JCL, Easytrieve, DB2, IMS, Syncsort, File-Aid, File Manager, Changeman, Endevor, Xpediter, Intertest, ISPW, application programming, design, debugging, quality assurance, test planning, defect tracking, effort estimation, scheduling, resource planning and risk tracking
 
 
 ## Badges
